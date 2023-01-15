@@ -13,3 +13,12 @@ This is my very first attempt trying to apply theoretical concepts learnt in the
   c. Delete book(s)
   d. Edit book's information
   e. Find a particular book using id or title
+3. Set up library book borrowing card
+4. Set up library book return card
+5. Basic statistics
+  a. Number of books available in the library
+  b. Number of books based on categories
+  c. Number of registered readers
+  d. Number of registered readers based on gender
+  e. Number of books that is being borrowed
+  f. List of readers being late on returning books
